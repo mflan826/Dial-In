@@ -1,4 +1,4 @@
-# 🏁 Sniper Drag Tuner
+# 🏁 Dial-In
 
 ## Holley Sniper EFI Drag Racing Tuning Assistant
 
