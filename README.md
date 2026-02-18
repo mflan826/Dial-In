@@ -69,7 +69,7 @@ Complete vehicle profiling including:
   - ✅ Check "Add Python to PATH" during installation
 
 ### Quick Start
-1. Download or extract the Sniper Drag Tuner folder
+1. Download and unzip the Dial-In Folder.
 2. Double-click `Setup.bat` to install dependencies
 3. Double-click `Start_Sniper_Drag_Tuner.bat` to launch
 
